@@ -1,4 +1,3 @@
-# Good day, commander
-This should be prior to `readme.md`
+# Projects
 
-Psss
+* 东方幻游录（on dev）
